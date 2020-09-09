@@ -21,4 +21,4 @@ In the project directory, you can run:
 This will install all the necesary dependency.
 
 2. ### `npm start` 
-This will install all the necesary dependency.
+This will start the application in localhost 3000 browser.
